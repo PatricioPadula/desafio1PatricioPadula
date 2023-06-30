@@ -1,0 +1,18 @@
+[
+	{
+		"title": "teclado kumara",
+		"descripcion": "teclado kumara gamer retroiluminado",
+		"price": 2000,
+		"thumbnail": "https://spacegamer.com.ar/img/Public/1058-producto-1019-producto-teclado-kumara-k552-rainbow-switch-red-1-683-491.jpg",
+		"code": 213451,
+		"stock": 5
+	},
+	{
+		"title": "mouse gamer",
+		"descripcion": "mouse logitech gamer g500",
+		"price": 4000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/38348_1.jpeg",
+		"code": 345344,
+		"stock": 3
+	}
+]
