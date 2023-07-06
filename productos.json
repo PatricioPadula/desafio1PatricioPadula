@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"title": "teclado kumara",
 		"descripcion": "teclado kumara gamer retroiluminado",
 		"price": 2000,
@@ -8,6 +9,7 @@
 		"stock": 5
 	},
 	{
+		"id": 2,
 		"title": "mouse gamer",
 		"descripcion": "mouse logitech gamer g500",
 		"price": 4000,
